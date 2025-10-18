@@ -12,3 +12,6 @@ Drawing the Olympic Rings Logo with Python
 py OlympicSymbol.py
 ```
 
+## Simulation
+
+https://github.com/user-attachments/assets/89949d62-73d6-49b3-998e-2726e444ca03
